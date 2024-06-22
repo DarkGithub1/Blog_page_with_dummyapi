@@ -29,10 +29,7 @@ function BlogDetails() {
                     post.content
                 }
             </div>
-        {/* <img src={post.coverImage} className='rounded-2xl mt-5 mb-5 w-full'/> */}
-        {/* <h3>{post.desc}</h3> */}
-        {/* <ReactMarkdown children={post.desc} 
-        escapeHtml={false} className='leading-9' /> */}
+        
     </div>
   )
 }
