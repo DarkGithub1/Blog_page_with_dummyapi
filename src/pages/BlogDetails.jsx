@@ -24,7 +24,7 @@ function BlogDetails() {
             </div>
             
         </div>
-        <div className='mt-7 border-4 border-slate-800 h-44 flex items-center justify-center bg-slate-950 text-white p-6'>
+        <div className='mt-7  border-4 border-slate-800 h-80 flex items-center justify-center bg-slate-950 text-white p-6'>
                 {
                     post.content
                 }
